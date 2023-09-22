@@ -5,7 +5,7 @@ import scipy as sp
 from scipy.integrate import odeint, solve_ivp
 import sklearn
 
-# ==================== Variables ==================== #
+# ==================== Variables hehe ==================== #
 ecoli = 10000 # 10000 cells
 dsRNA = 100
 minicell = 0
